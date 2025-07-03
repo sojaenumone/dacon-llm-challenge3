@@ -1,6 +1,4 @@
 # dacon-llm-challenge3
-dacon-llm-challenge3
-물론입니다! 아래는 해당 코드의 기능, 구성, 실행 방법을 간결하고 깔끔하게 정리한 **README.md 템플릿**입니다. GitHub나 과제 제출용으로 바로 사용 가능합니다.
 
 ---
 
